@@ -1,6 +1,6 @@
 """
 Auto Dev Environment Setup - Configuration & Environment Manager
-Author: Your Name / Project Admin
+Author: HexanovaCore
 Version: 1.2.0
 Description: Centralizes all system constants, defaults, OS detection, 
              language support matrices, and logging themes.
