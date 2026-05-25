@@ -1,6 +1,6 @@
 """
 Auto Dev Environment Setup - Core Execution Engine
-Author: Your Name / Project Admin
+Author: HexanovaCore
 Version: 1.2.0
 Description: Handles disk I/O, folder structure creation, template rendering,
              and system command executions across different OS platforms.
