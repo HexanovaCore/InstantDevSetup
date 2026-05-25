@@ -1,11 +1,12 @@
 """
 Auto Dev Environment Setup CLI
-Author: Your Name / Project Admin
+Author: HexanovaCore
 Version: 1.2.0
 Description: Ultimate production-ready main entry point with flawless 
              Rich text layouts and dynamic language detection (TR/EN).
 """
-
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 import sys
 import os
 import locale
